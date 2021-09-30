@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VitalikOk
 - 👀 interesting in Data Science
 - 📫 vo.okunev@gmail.com
+- telegram: vo_okunev
 
 <!---
 VitalikOk/VitalikOk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
